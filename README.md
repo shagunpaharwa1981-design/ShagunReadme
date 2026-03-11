@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shagun.
+- 👋 Hi, I’m Shagun. 
 - 👀 I’m interested in learning new things.
 - 🌱 I’m currently learning MERN.
 - 📫 How to reach me - shagunpaharwa1981@gmail.com
